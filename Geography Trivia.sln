@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geography Trivia", "Geography Trivia\Geography Trivia.csproj", "{426A39D8-69E0-472B-84F1-D2544F3F125E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426A39D8-69E0-472B-84F1-D2544F3F125E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426A39D8-69E0-472B-84F1-D2544F3F125E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426A39D8-69E0-472B-84F1-D2544F3F125E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426A39D8-69E0-472B-84F1-D2544F3F125E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {814E8A29-7778-4C86-80EF-D3C9A2214B85}
+	EndGlobalSection
+EndGlobal
